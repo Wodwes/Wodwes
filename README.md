@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Wodwes
+- 👀 I’m interested in Javascript
+- 🌱 I’m currently learning Astro
+- 💞️ I’m looking to collaborate on VueJS Ui Library
+- 📫 How to reach me productionwodwes@gmail.com
+- ⚡ Fun fact: 😂
